@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+}
+/*  HEADER */
+
+#logo{
+    width: 13em;
+    height:4em ;
+    text-align: center;
+    display: block;
+   margin-top:20px;
+   margin-bottom:20px ;
+   margin-left: 40%;
+}
+
+#linea-header{
+    border-color: #FFD18E;
+   
+}
+
+.container-header{
+    background-color: #f6f4e5;
+    width: 90em;
+    height: 3em;
+
+}
+
+.paragrafo-header{
+    margin-right: 200px;
+    text-align: center;
+    padding: 15px;
+    color: #21654b;
+}
+
+#header-span{
+    font-weight: bold;
+}
+/* FINE HEADER */
+
+.titolo-principale{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top:25px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+/* ARTICLE */
+
+.article-paragrafo{
+    font-size: medium;
+    margin-top: 5px;
+    margin-bottom: 10px ;
+    text-align: center;
+}
+
+/* IMG */
+
+.figure{
+    text-align: center;
+}
+
+#focaccia{
+    width: 36em;
+    height:28em ;
+    text-align: center;
+    display: block;
+   margin-top:20px;
+   margin-bottom:20px ;
+   margin-left: 27%;
+   border-radius: 5px;
+}
+
+#img-description{
+    font-size: medium;
+    font-weight: bolder;
+    color: rgb(151, 147, 147);
+    text-align: center;
+}
+/* FINE IMG */
+
+/* 1 SEZIONE*/
+.prima-sezione{
+display: inline;
+
+}
+
+#prima-sezione-title{
+    color: rgb(173, 50, 50);
+    font-weight: lighter;
+    margin-top: 40px;
+    margin-left: 340px;
+
+}
+
+#prima-sezione-link{
+    color: #268460;
+    font-size: larger;
+    margin-top: 40px;
+    margin-left: 340px;
+}
+/* /1 SEZIONE */
+
+/* 2-3 SEZIONE */
+
+#seconda-sezione-titolo{
+    margin-top: 20px;
+    margin-left: 340px;
+    font-weight: lighter;
+}
+
+.linea-separatrice{
+    width: 36em;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 340px;
+    border-color: #8BE8E5;
+}
+
+.sottotitoli-comuni{
+    margin-left: 340px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.container-liste{
+   display: block;
+}
+
+.liste{
+    margin:20px 0;
+    margin-left: 340px;
+    font-weight: 300;
+}
+
+/* /2-3 SEZIONE */
+
+
+/* 4 SEZIONE */
+
+#quarta-sezione-titolo{
+    margin-left: 340px;
+    font-weight: lighter;
+    font-size: x-large;
+}
+
+#sottotitolo-quarta-sezione{
+    margin-left: 340px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+#quarta-sezione-container{
+    margin-left: 330px;
+    padding: 20px;
+    text-align: left;
+}
+
+/* /4 SEZIONE */
+
+/* FOOTER */
+
+#footer-paragrafo{
+    text-align: center;margin: 20px 0;
+    font-size: medium;
+}
+
+#footer-link{
+    color: #21654b;
+    font-size: medium;
+}
+/* /FOOTER */
